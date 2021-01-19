@@ -1,0 +1,11 @@
+a.btn {
+  color: black;
+  background-color: lightgray;
+  border: 2px solid gray;
+  padding: 5px 10px;
+  transition: background-color 0.5s ease-in-out 10ms;
+
+  &:hover {
+    background-color: gray;
+  }
+}
